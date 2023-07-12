@@ -1,7 +1,5 @@
-# CMPE 202 Individual Project
-Name: Pratik Joseph Dabre
+# Inventory Management Application
 
-SJSU ID: 015961439
 ## Instructions to run the project
 - Go to repo pdabre12 and clone the repository or download the zip file.
 - You need Intellij IDE to run the code.
@@ -79,5 +77,4 @@ Intermediate terminal screen
 ![Screenshot (100)](https://user-images.githubusercontent.com/80276547/144793523-095760bc-8189-4e81-a286-16c2ca49f21a.png)
 
 Output amount in CSV File
-# inventory-management-application
-# inventory-management-application
+
